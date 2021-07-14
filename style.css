@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 body{
     margin: 0px;
@@ -68,4 +69,29 @@ h1{
 .player-text{
     font-size: 16px;
     color:#6C6C6C;
+}
+
+/* footer design */
+.footer-align{
+    text-align: center;
+}
+.logo{
+    font-size: 50px;
+}
+.fa-futbol{
+    color: navy;
+    font-size: 65px;
+}
+#football-font{
+    font-family: 'Lobster', cursive;
+}
+.icons{
+    margin-left: 25px;
+    font-size: 30px;
+}
+.i-color{
+    color: #969BAB;
+}
+.copy-text-size{
+    font-size: 18px;
 }
